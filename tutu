@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,A Fazenda
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_e3634f80ad1f9d113fe592fc5c5b2b52f2ebf3aa/playlist.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_ec2667f1fa2461b192bec24ee1e91a002d9cc526/playlist.m3u8
+#EXTINF:-1,HBO Plus
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus480p_17820ac1_3b1c64069952734bf68c5cbf4161881fc57fd9cc/playlist.m3u8
+#EXTINF:-1,HBO2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_51cb78ea450953a3bf67c5b236938bddf4fb794f/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_6c0c70a01846c739c8781538510f20594eba3fe0/playlist.m3u8
